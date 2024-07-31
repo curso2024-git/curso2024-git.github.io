@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Xmen",
+        "poster": "xmen-poster"
+    },
+    {
+        "titulo": "Superman",
+        "poster": "superman-poster"
+    },
+    {
+        "titulo": "Spiderman",
+        "poster": "spiderman-poster"
+    },
+    {
+        "titulo": "ET",
+        "poster": "et-poster"
+    },
+    {
+        "titulo": "Regreso del Jedi",
+        "poster": "regreso del jedi-poster"
+    }
+]
